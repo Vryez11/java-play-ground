@@ -28,8 +28,8 @@ java-playground/
 │                   ├── basics/           # 기본 문법
 │                   │   ├── variables/    # 변수와 자료형
 │                   │   ├── operators/    # 연산자
-│                   │   ├── controlflow/  # 제어문
-│                   │   └── arrays/       # 배열
+│                   │   ├── loops/        # 반복문
+│                   │   └── conditions/   # 조건문 
 │                   ├── oop/              # 객체지향
 │                   │   ├── classes/      # 클래스와 객체
 │                   │   ├── inheritance/  # 상속
