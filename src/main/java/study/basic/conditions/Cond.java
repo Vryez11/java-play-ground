@@ -1,4 +1,4 @@
-package main.java.com.study.basic.conditions;
+package main.java.basic.conditions;
 
 public class Cond {
 

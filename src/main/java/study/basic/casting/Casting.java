@@ -1,4 +1,4 @@
-package main.java.com.study.basic.casting;
+package main.java.basic.casting;
 
 public class Casting {
 

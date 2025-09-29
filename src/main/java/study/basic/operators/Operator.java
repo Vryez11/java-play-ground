@@ -1,4 +1,4 @@
-package main.java.com.study.basic.operators;
+package main.java.basic.operators;
 
 public class Operator {
 

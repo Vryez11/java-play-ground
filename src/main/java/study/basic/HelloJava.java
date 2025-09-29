@@ -1,4 +1,4 @@
-package main.java.com.study.basic;
+package main.java.basic;
 
 /*
 이것은 주석입니다.

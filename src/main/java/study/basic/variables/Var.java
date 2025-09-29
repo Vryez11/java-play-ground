@@ -1,4 +1,4 @@
-package main.java.com.study.basic.variables;
+package main.java.basic.variables;
 
 public class Var {
 

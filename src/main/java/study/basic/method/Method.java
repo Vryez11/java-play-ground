@@ -1,4 +1,4 @@
-package main.java.com.study.basic.method;
+package main.java.basic.method;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package main.java.com.study.basic.loops;
+package main.java.basic.loops;
 
 public class Loop {
 

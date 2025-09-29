@@ -1,4 +1,4 @@
-package main.java.com.study.basic.array;
+package main.java.basic.array;
 
 import java.util.Scanner;
 
