@@ -30,6 +30,7 @@ java-playground/
 │                       ├── operators/    # 연산자
 │                       ├── loops/        # 반복문
 │                       ├── casting/      # 형변환
+│                       ├── array/        # 배열
 │                       └── conditions/   # 조건문
 └── README.md
 ```
@@ -44,6 +45,7 @@ java-playground/
 6. [조건문](https://www.notion.so/27b8e70ba5ff8032a5f0cfab9bc7bc97?source=copy_link)
 7. [스코프](https://www.notion.so/27c8e70ba5ff80f1835bfced1bba7440?source=copy_link)
 8. [형변환](https://www.notion.so/27c8e70ba5ff8038a4a1db197afb34c8?source=copy_link)
+9. [배열](https://www.notion.so/27d8e70ba5ff80f0a4acff7856a37361?source=copy_link)
 
 ## 🎯 학습 원칙
 
