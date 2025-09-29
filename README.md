@@ -44,7 +44,7 @@ java-playground/
 5. [연산자](https://www.notion.so/27b8e70ba5ff809f9cf4ef92412d8dcf?source=copy_link)
 6. [조건문](https://www.notion.so/27b8e70ba5ff8032a5f0cfab9bc7bc97?source=copy_link)
 7. [스코프](https://www.notion.so/27c8e70ba5ff80f1835bfced1bba7440?source=copy_link)
-8. [형변환](https://www.notion.so/27c8e70ba5ff8038a4a1db197afb34c8?source=copy_link)ㄱ
+8. [형변환](https://www.notion.so/27c8e70ba5ff8038a4a1db197afb34c8?source=copy_link)
 9. [배열](https://www.notion.so/27d8e70ba5ff80f0a4acff7856a37361?source=copy_link)
 10. [메서드](https://www.notion.so/27d8e70ba5ff8090b0b5fafad1e90437?source=copy_link)
 
