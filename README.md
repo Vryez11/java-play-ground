@@ -25,44 +25,25 @@ java-playground/
 │       └── java/
 │           └── com/
 │               └── study/
-│                   ├── basics/           # 기본 문법
-│                   │   ├── variables/    # 변수와 자료형
-│                   │   ├── operators/    # 연산자
-│                   │   ├── loops/        # 반복문
-│                   │   └── conditions/   # 조건문 
-│                   ├── oop/              # 객체지향
-│                   │   ├── classes/      # 클래스와 객체
-│                   │   ├── inheritance/  # 상속
-│                   │   ├── polymorphism/ # 다형성
-│                   │   ├── encapsulation/# 캡슐화
-│                   │   ├── abstraction/  # 추상화
-│                   │   └── interfaces/   # 인터페이스
-│                   ├── advanced/         # 고급 기능
-│                   │   ├── generics/     # 제네릭
-│                   │   ├── collections/  # 컬렉션
-│                   │   ├── exceptions/   # 예외처리
-│                   │   ├── io/           # 입출력
-│                   │   └── annotations/  # 어노테이션
-│                   ├── java8plus/        # Java 8+ 기능
-│                   │   ├── lambda/       # 람다식
-│                   │   ├── streams/      # 스트림 API
-│                   │   ├── optional/     # Optional
-│                   │   └── datetime/     # 날짜/시간 API
-│                   ├── concurrency/      # 동시성
-│                   │   ├── threads/      # 스레드
-│                   │   ├── synchronization/
-│                   │   └── executors/    # Executor 프레임워크
-│                   ├── patterns/         # 디자인 패턴
-│                   │   ├── creational/   # 생성 패턴
-│                   │   ├── structural/   # 구조 패턴
-│                   │   └── behavioral/   # 행위 패턴
-│                   └── practice/         # 실습 문제
-│                       ├── algorithms/   # 알고리즘
-│                       ├── datastructures/# 자료구조
-│                       └── projects/     # 미니 프로젝트
-│
+│                   └── basics/           # 기본 문법
+│                       ├── variables/    # 변수와 자료형
+│                       ├── operators/    # 연산자
+│                       ├── loops/        # 반복문
+│                       ├── casting/      # 형변환
+│                       └── conditions/   # 조건문
 └── README.md
 ```
+
+## 🗃️ 학습 정리
+
+1. [자바란?](https://www.notion.so/27a8e70ba5ff804c8806e5ae21ccbf08?source=copy_link)
+2. [컴파일과 실행](https://www.notion.so/27a8e70ba5ff80c79859d46aa0a503f2?source=copy_link)
+3. [자바와 운영체제 독립성](https://www.notion.so/27a8e70ba5ff807a9a5ad3e95a85d7bf?source=copy_link)
+4. [변수](https://www.notion.so/27a8e70ba5ff807db59ec14c7ccb2dd4?source=copy_link)
+5. [연산자](https://www.notion.so/27b8e70ba5ff809f9cf4ef92412d8dcf?source=copy_link)
+6. [조건문](https://www.notion.so/27b8e70ba5ff8032a5f0cfab9bc7bc97?source=copy_link)
+7. [스코프](https://www.notion.so/27c8e70ba5ff80f1835bfced1bba7440?source=copy_link)
+8. [형변환](https://www.notion.so/27c8e70ba5ff8038a4a1db197afb34c8?source=copy_link)
 
 ## 🎯 학습 원칙
 
