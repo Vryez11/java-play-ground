@@ -33,7 +33,7 @@ java-playground/
 │                 │   ├── method/       # 메서드
 │                 │   └── conditions/   # 조건문
 │                 └── start/            # Java 기본
-│                     └── class/        # 클래스
+│                     └── class1/       # 클래스
 └── README.md
 ```
 
@@ -49,6 +49,7 @@ java-playground/
 8. [형변환](https://www.notion.so/27c8e70ba5ff8038a4a1db197afb34c8?source=copy_link)
 9. [배열](https://www.notion.so/27d8e70ba5ff80f0a4acff7856a37361?source=copy_link)
 10. [메서드](https://www.notion.so/27d8e70ba5ff8090b0b5fafad1e90437?source=copy_link)
+11. [클래스](https://www.notion.so/27d8e70ba5ff80b0bd54e21507d2f94e?source=copy_link)
 
 ## 🎯 학습 원칙
 
