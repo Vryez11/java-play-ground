@@ -50,6 +50,7 @@ java-playground/
 9. [배열](https://www.notion.so/27d8e70ba5ff80f0a4acff7856a37361?source=copy_link)
 10. [메서드](https://www.notion.so/27d8e70ba5ff8090b0b5fafad1e90437?source=copy_link)
 11. [클래스](https://www.notion.so/27d8e70ba5ff80b0bd54e21507d2f94e?source=copy_link)
+12. [기본형과 참조형](https://www.notion.so/27e8e70ba5ff80bf9735d3411f6dffae?source=copy_link)
 
 ## 🎯 학습 원칙
 
