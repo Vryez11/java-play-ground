@@ -55,6 +55,8 @@ java-playground/
 12. [기본형과 참조형](https://www.notion.so/27e8e70ba5ff80bf9735d3411f6dffae?source=copy_link)
 13. [객체 지향 프로그래밍](https://www.notion.so/Java-27a8e70ba5ff80faaac0c0ced411dc34?source=copy_link)
 14. [생성자](https://www.notion.so/27f8e70ba5ff80b18ee6c5189b30446a?source=copy_link)
+14. [생성자](https://www.notion.so/27f8e70ba5ff80b18ee6c5189b30446a?source=copy_link)
+15. [패키지](https://www.notion.so/27f8e70ba5ff8007a679f0425241ef26?source=copy_link)
 
 ## 🎯 학습 원칙
 
