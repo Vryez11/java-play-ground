@@ -59,6 +59,8 @@ java-playground/
 14. [생성자](https://www.notion.so/27f8e70ba5ff80b18ee6c5189b30446a?source=copy_link)
 15. [패키지](https://www.notion.so/27f8e70ba5ff8007a679f0425241ef26?source=copy_link)
 16. [접근 제어자](https://www.notion.so/27f8e70ba5ff8080b99defe33b7308a0?source=copy_link)
+17. [자바 메모리 구조](https://www.notion.so/27f8e70ba5ff805c94b5d8f898bdf4b4?source=copy_link)
+18. [static](https://www.notion.so/static-2808e70ba5ff8081870fd5912e8658f4?source=copy_link)
 
 ## 🎯 학습 원칙
 
