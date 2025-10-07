@@ -1,0 +1,23 @@
+package main.java.study.start.poly.car;
+
+public class Driver {
+
+    private Car car;
+
+    public void setCar(Car car) {
+        System.out.println("자동차를 설정합니다: " + car);
+        this.car = car;
+    }
+
+    public void drive() {
+        if (car == null) {
+            System.out.println("먼저 자동차를 설정해주세요.");
+            return;
+        }
+
+        System.out.println("자동차를 운전합니다.");
+        car.startEngine();
+        car.pressAccelerator();
+        car.offEngine();
+    }
+}
