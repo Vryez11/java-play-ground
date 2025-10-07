@@ -36,6 +36,7 @@ java-playground/
 │                     ├── class1/       # 클래스
 │                     ├── construct/    # 생성자
 │                     ├── access/       # 접근 제어자
+│                     ├── extend1/      # 상속
 │                     └── oop1/         # 객체 지향 프로그래밍
 └── README.md
 ```
@@ -62,6 +63,7 @@ java-playground/
 17. [자바 메모리 구조](https://www.notion.so/27f8e70ba5ff805c94b5d8f898bdf4b4?source=copy_link)
 18. [static](https://www.notion.so/static-2808e70ba5ff8081870fd5912e8658f4?source=copy_link)
 19. [final](https://www.notion.so/final-2808e70ba5ff80d0b56eec7481f52c3d?source=copy_link)
+20. [상속](https://www.notion.so/2808e70ba5ff803bb676d7dc5a493b56?source=copy_link)
 
 ## 🎯 학습 원칙
 
