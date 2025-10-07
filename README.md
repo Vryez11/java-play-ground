@@ -36,6 +36,7 @@ java-playground/
 │                     ├── class1/       # 클래스
 │                     ├── construct/    # 생성자
 │                     ├── access/       # 접근 제어자
+│                     ├── poly/         # 다형성
 │                     ├── extend1/      # 상속
 │                     └── oop1/         # 객체 지향 프로그래밍
 └── README.md
@@ -64,6 +65,10 @@ java-playground/
 18. [static](https://www.notion.so/static-2808e70ba5ff8081870fd5912e8658f4?source=copy_link)
 19. [final](https://www.notion.so/final-2808e70ba5ff80d0b56eec7481f52c3d?source=copy_link)
 20. [상속](https://www.notion.so/2808e70ba5ff803bb676d7dc5a493b56?source=copy_link)
+21. [다형성](https://www.notion.so/2858e70ba5ff8047badeec5a0bc1fff6?source=copy_link)
+22. [컴파일 오류와 런타임 오류](https://www.notion.so/2858e70ba5ff802289abf45ebd60bbf2?source=copy_link)
+23. [추상 클래스와 추상 메서드](https://www.notion.so/2858e70ba5ff801ea954ca74e184ab9e?source=copy_link)
+24. [인터페이스](https://www.notion.so/2858e70ba5ff807d8dd4e42f96dd13f4?source=copy_link)
 
 ## 🎯 학습 원칙
 
