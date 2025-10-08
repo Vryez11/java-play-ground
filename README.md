@@ -9,13 +9,6 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 - 실무에서 사용되는 디자인 패턴 구현
 - 모던 Java (8~21) 기능 활용
 
-## 🛠️ 개발 환경
-
-- **Java Version**: 21 (LTS)
-- **JDK**: Eclipse Temurin 21
-- **IDE**: IntelliJ IDEA
-- **Build Tool**: Maven / Gradle
-
 ## 📁 프로젝트 구조
 
 ```
@@ -32,14 +25,17 @@ java-playground/
 │                 │   ├── array/        # 배열
 │                 │   ├── method/       # 메서드
 │                 │   └── conditions/   # 조건문
-│                 └── start/            # Java 기본
-│                     ├── class1/       # 클래스
-│                     ├── construct/    # 생성자
-│                     ├── access/       # 접근 제어자
-│                     ├── poly/         # 다형성
-│                     ├── extend1/      # 상속
-│                     └── oop1/         # 객체 지향 프로그래밍
+│                 ├── start/            # Java 기본
+│                 │   ├── class1/       # 클래스
+│                 │   ├── construct/    # 생성자
+│                 │   ├── access/       # 접근 제어자
+│                 │   ├── poly/         # 다형성
+│                 │   ├── extend1/      # 상속
+│                 │   └── oop1/         # 객체 지향 프로그래밍
+│                 └── mid1/             # Java 중급 1
+│                     └── object        # Object 클래스
 └── README.md
+
 ```
 
 ## 🗃️ 학습 정리
@@ -69,6 +65,8 @@ java-playground/
 22. [컴파일 오류와 런타임 오류](https://www.notion.so/2858e70ba5ff802289abf45ebd60bbf2?source=copy_link)
 23. [추상 클래스와 추상 메서드](https://www.notion.so/2858e70ba5ff801ea954ca74e184ab9e?source=copy_link)
 24. [인터페이스](https://www.notion.so/2858e70ba5ff807d8dd4e42f96dd13f4?source=copy_link)
+25. [java.lang 패키지](https://www.notion.so/java-lang-2868e70ba5ff801684befc604a0b0bc7?source=copy_link)
+25. [Object 클래스](https://www.notion.so/Object-2868e70ba5ff80bb98a7d0a128f831de?source=copy_link)
 
 ## 🎯 학습 원칙
 
