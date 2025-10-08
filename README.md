@@ -34,7 +34,8 @@ java-playground/
 │                 │   └── oop1/         # 객체 지향 프로그래밍
 │                 └── mid1/             # Java 중급 1
 │                     ├── immutable/    # 불변 객체
-│                     └── object        # Object 클래스
+│                     ├── string/       # String 클래스
+│                     └── object/       # Object 클래스
 └── README.md
 
 ```
@@ -69,6 +70,8 @@ java-playground/
 25. [java.lang 패키지](https://www.notion.so/java-lang-2868e70ba5ff801684befc604a0b0bc7?source=copy_link)
 25. [Object 클래스](https://www.notion.so/Object-2868e70ba5ff80bb98a7d0a128f831de?source=copy_link)
 26. [불변 객체](https://www.notion.so/2868e70ba5ff80328d51c37360cbee24?source=copy_link)
+27. [String 클래스](https://www.notion.so/String-2868e70ba5ff802387b0d9d5c750da03?source=copy_link)
+28. [메서드 체이닝](https://www.notion.so/2868e70ba5ff80eeb9e9fac7c8d5c337?source=copy_link)
 
 ## 🎯 학습 원칙
 
