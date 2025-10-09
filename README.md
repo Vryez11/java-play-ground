@@ -76,6 +76,7 @@ java-playground/
 28. [메서드 체이닝](https://www.notion.so/2868e70ba5ff80eeb9e9fac7c8d5c337?source=copy_link)
 29. [래퍼 클래스](https://www.notion.so/2868e70ba5ff808fb5c8e43861d13ada?source=copy_link)
 30. [Class 클래스](https://www.notion.so/Class-2878e70ba5ff8043bd86d0d0e112869b?source=copy_link)
+31. [System 클래스](https://www.notion.so/System-2878e70ba5ff8017b8d5e5af72374d1d?source=copy_link)
 
 ## 🎯 학습 원칙
 
