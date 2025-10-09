@@ -35,6 +35,7 @@ java-playground/
 │                 └── mid1/             # Java 중급 1
 │                     ├── immutable/    # 불변 객체
 │                     ├── string/       # String 클래스
+│                     ├── wrapper/      # 래퍼 클래스
 │                     └── object/       # Object 클래스
 └── README.md
 
@@ -72,6 +73,7 @@ java-playground/
 26. [불변 객체](https://www.notion.so/2868e70ba5ff80328d51c37360cbee24?source=copy_link)
 27. [String 클래스](https://www.notion.so/String-2868e70ba5ff802387b0d9d5c750da03?source=copy_link)
 28. [메서드 체이닝](https://www.notion.so/2868e70ba5ff80eeb9e9fac7c8d5c337?source=copy_link)
+29. [래퍼 클래스](https://www.notion.so/2868e70ba5ff808fb5c8e43861d13ada?source=copy_link)
 
 ## 🎯 학습 원칙
 
