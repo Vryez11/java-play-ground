@@ -34,6 +34,7 @@ java-playground/
 │                 │   └── oop1/         # 객체 지향 프로그래밍
 │                 └── mid1/             # Java 중급 1
 │                     ├── immutable/    # 불변 객체
+│                     ├── enumeration/  # 열거형
 │                     ├── string/       # String 클래스
 │                     ├── clazz/        # Class 클래스
 │                     ├── math/         # Math 클래스
@@ -81,6 +82,7 @@ java-playground/
 31. [System 클래스](https://www.notion.so/System-2878e70ba5ff8017b8d5e5af72374d1d?source=copy_link)
 32. [Math 클래스](https://www.notion.so/Math-Random-2878e70ba5ff80bea9bac0754147098d?source=copy_link)
 33. [Random 클래스](https://www.notion.so/Random-2878e70ba5ff807f86f5eab6bf02a139?source=copy_link)
+34. [열거형](https://www.notion.so/2878e70ba5ff80559012f7ff0ca04d38?source=copy_link)
 
 ## 🎯 학습 원칙
 

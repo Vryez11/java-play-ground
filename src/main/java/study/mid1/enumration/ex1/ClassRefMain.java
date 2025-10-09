@@ -1,0 +1,13 @@
+package main.java.study.mid1.enumration.ex1;
+
+public class ClassRefMain {
+
+    public static void main(String[] args) {
+
+        System.out.println("class BASIC = " + ClassGrade.BASIC.getClass());
+        System.out.println("class GOLD =  " + ClassGrade.GOLD.getClass());
+
+        System.out.println("ref BASIC = " + ClassGrade.BASIC);
+        System.out.println("ref GOLD = " + ClassGrade.GOLD);
+    }
+}
