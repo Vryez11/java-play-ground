@@ -36,6 +36,7 @@ java-playground/
 │                     ├── immutable/    # 불변 객체
 │                     ├── enumeration/  # 열거형
 │                     ├── string/       # String 클래스
+│                     ├── nested/       # 중첩 클래스, 내부 클래스
 │                     ├── clazz/        # Class 클래스
 │                     ├── math/         # Math 클래스
 │                     ├── time/         # 날짜와 시간
@@ -85,6 +86,7 @@ java-playground/
 33. [Random 클래스](https://www.notion.so/Random-2878e70ba5ff807f86f5eab6bf02a139?source=copy_link)
 34. [열거형](https://www.notion.so/2878e70ba5ff80559012f7ff0ca04d38?source=copy_link)
 35. [날짜와 시간](https://www.notion.so/2888e70ba5ff8047a77cc8489c2da449?source=copy_link)
+36. [중첩클래스](https://www.notion.so/28b8e70ba5ff80f79890edc87a32385f?source=copy_link)
 
 ## 🎯 학습 원칙
 
