@@ -35,6 +35,7 @@ java-playground/
 │                 └── mid1/             # Java 중급 1
 │                     ├── immutable/    # 불변 객체
 │                     ├── enumeration/  # 열거형
+│                     ├── exception/    # 예외 처리
 │                     ├── string/       # String 클래스
 │                     ├── nested/       # 중첩 클래스
 │                     ├── clazz/        # Class 클래스
@@ -87,6 +88,7 @@ java-playground/
 34. [열거형](https://www.notion.so/2878e70ba5ff80559012f7ff0ca04d38?source=copy_link)
 35. [날짜와 시간](https://www.notion.so/2888e70ba5ff8047a77cc8489c2da449?source=copy_link)
 36. [중첩 클래스](https://www.notion.so/28b8e70ba5ff80f79890edc87a32385f?source=copy_link)
+37. [예외 처리](https://www.notion.so/28c8e70ba5ff80129bafd07a7dd8ba8b?source=copy_link)
 
 ## 🎯 학습 원칙
 
