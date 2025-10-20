@@ -98,6 +98,8 @@ java-playground/
 39. [컬렉션 프레임워크-ArrayList](https://www.notion.so/ArrayList-28e8e70ba5ff808eab0ee57338396ff0?source=copy_link)
 40. [컬렉션 프레임워크-LinkedList](https://www.notion.so/LinkedList-28e8e70ba5ff80a8b673ff0608a5859d?source=copy_link)
 41. [컬렉션 프레임워크-List](https://www.notion.so/List-28e8e70ba5ff8090bd51fea3490048d1?source=copy_link)
+42. [컬렉션 프레임워크-HashSet](https://www.notion.so/HashSet-2928e70ba5ff80deb4a2f71d55611411?source=copy_link)
+43. [컬렉션 프레임워크-Set](https://www.notion.so/Set-2928e70ba5ff8005886cc3dd39863070?source=copy_link)
 
 ## 🎯 학습 원칙
 
