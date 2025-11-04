@@ -104,6 +104,7 @@ java-playground/
 45. [켈렉션 프레임워크-Stack](https://www.notion.so/Stack-2a08e70ba5ff80d2b1d2ea17a0e4aeba?source=copy_link)
 46. [켈렉션 프레임워크-Queue](https://www.notion.so/Queue-2a08e70ba5ff80a88077c45e9898064c?source=copy_link)
 47. [컬렉션 프레임워크-Deque](https://www.notion.so/Dequeue-2a08e70ba5ff80359f0ef546e75acc63?source=copy_link)
+48. [컬렉션 프레임워크-순회](https://www.notion.so/Map-29e8e70ba5ff80899b27e4ebaf4e4a2d?source=copy_link)
 
 ## 🎯 학습 원칙
 
