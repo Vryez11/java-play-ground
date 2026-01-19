@@ -109,6 +109,7 @@ java-playground/
 50. [컬렉션 프레임워크-정리](https://www.notion.so/2a18e70ba5ff804fb733d0c530ef192b?source=copy_link)
 51. [멀티태스킹/멀티프로세싱](https://www.notion.so/2e38e70ba5ff8052a984ccd3473e60e0?source=copy_link)
 52. [프로세스/스레드](https://www.notion.so/2e38e70ba5ff80a784cef3351fd9d883?source=copy_link)
+53. [컨텍스트 스위칭](https://www.notion.so/2ed8e70ba5ff80029e40e01fcdd61920?source=copy_link)
 
 ## 🎯 학습 원칙
 
