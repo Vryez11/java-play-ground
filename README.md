@@ -44,9 +44,11 @@ java-playground/
 │                 │   ├── random/       # Random 클래스
 │                 │   ├── wrapper/      # 래퍼 클래스
 │                 │   └── object/       # Object 클래스
-│                 └── mid2/             # Java 중급 2
-│                     ├── collection    # 컬렉션 프레임워크
-│                     └── generic       # 제네릭  
+│                 ├── mid2/             # Java 중급 2
+│                 │   ├── collection    # 컬렉션 프레임워크
+│                 │   └── generic       # 제네릭  
+│                 └── adv1/             # Java 고급 1  
+│                     └── thread        # 스레드
 └── README.md
 
 ```
