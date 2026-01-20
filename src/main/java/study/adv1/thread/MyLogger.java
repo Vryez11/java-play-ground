@@ -1,0 +1,14 @@
+package main.java.study.adv1.thread;
+
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
+
+public abstract class MyLogger {
+
+    private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss.SSS");
+
+    public static void log(Object obj) {
+        String time = LocalTime.now().format(formatter);
+        System.out.printf("%s [%8s] %s\n", time, Thread.currentThread().getName(), obj);
+    }
+}

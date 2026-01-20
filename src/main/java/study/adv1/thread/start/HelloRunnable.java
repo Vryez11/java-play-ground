@@ -1,6 +1,6 @@
 package main.java.study.adv1.thread.start;
 
-public class HelloThread extends Thread{
+public class HelloRunnable implements  Runnable{
 
     @Override
     public void run() {
