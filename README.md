@@ -113,6 +113,7 @@ java-playground/
 52. [프로세스/스레드](https://www.notion.so/2e38e70ba5ff80a784cef3351fd9d883?source=copy_link)
 53. [컨텍스트 스위칭](https://www.notion.so/2ed8e70ba5ff80029e40e01fcdd61920?source=copy_link)
 54. [스레드 생성과 실행](https://www.notion.so/2ee8e70ba5ff8067bd31c83ed456b7d1?source=copy_link)
+55. [데몬 스레드](https://www.notion.so/2ee8e70ba5ff805fa997f162ec956180?source=copy_link)
 
 ## 🎯 학습 원칙
 
