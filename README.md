@@ -117,6 +117,7 @@ java-playground/
 56. [스레드 기본 정보](https://www.notion.so/2ef8e70ba5ff8040b8f7f3906c8d2320?source=copy_link)
 57. [스레드 생명 주기](https://www.notion.so/2ef8e70ba5ff80c9b20dcb316d17c381?source=copy_link)
 58. [스레드 join 메서드](https://www.notion.so/join-2ef8e70ba5ff80f8afd8dc7973ba99d3?source=copy_link)
+59. [스레드 인터럽트](https://www.notion.so/2ef8e70ba5ff80aa89bbfa849766cab3?source=copy_link)
 
 ## 🎯 학습 원칙
 
