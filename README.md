@@ -119,6 +119,7 @@ java-playground/
 58. [스레드 join 메서드](https://www.notion.so/join-2ef8e70ba5ff80f8afd8dc7973ba99d3?source=copy_link)
 59. [스레드 인터럽트](https://www.notion.so/2ef8e70ba5ff80aa89bbfa849766cab3?source=copy_link)
 60. [스레드 yield](https://www.notion.so/yield-2ef8e70ba5ff809d9739cb0479c35f8d?source=copy_link)
+61. [메모리 가시성/volatile](https://www.notion.so/volatile-2f08e70ba5ff8073afa8f82f57bd9954?source=copy_link)
 
 ## 🎯 학습 원칙
 
