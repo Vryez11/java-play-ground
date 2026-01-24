@@ -121,6 +121,7 @@ java-playground/
 60. [스레드 yield](https://www.notion.so/yield-2ef8e70ba5ff809d9739cb0479c35f8d?source=copy_link)
 61. [메모리 가시성/volatile](https://www.notion.so/volatile-2f08e70ba5ff8073afa8f82f57bd9954?source=copy_link)
 62. [동기화 - synchronized](https://www.notion.so/synchronized-2f18e70ba5ff8005b78df98b34a96d21?source=copy_link)
+63. [고급 동기화 - concurrent.Lock](https://www.notion.so/concurrent-Lock-2f28e70ba5ff802db03eec18ad5fe037?source=copy_link)
 
 ## 🎯 학습 원칙
 
