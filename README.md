@@ -123,6 +123,7 @@ java-playground/
 62. [동기화 - synchronized](https://www.notion.so/synchronized-2f18e70ba5ff8005b78df98b34a96d21?source=copy_link)
 63. [고급 동기화 - concurrent.Lock](https://www.notion.so/concurrent-Lock-2f28e70ba5ff802db03eec18ad5fe037?source=copy_link)
 64. [생산자 소비자 문제](https://www.notion.so/2f48e70ba5ff8040974af53adf927b7b?source=copy_link)
+65. [Object 클래스 - wait, notify](https://www.notion.so/Object-wait-notify-2f48e70ba5ff80379d6dc38cb460a512?source=copy_link)
 
 ## 🎯 학습 원칙
 
