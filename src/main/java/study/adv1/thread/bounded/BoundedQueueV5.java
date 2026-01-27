@@ -8,15 +8,16 @@ import java.util.concurrent.locks.ReentrantLock;
 
 import static main.java.study.adv1.thread.MyLogger.log;
 
-public class BoundedQueueV4 implements BoundedQueue {
+public class BoundedQueueV5 implements BoundedQueue {
 
     private final Lock lock = new ReentrantLock();
-    private final Condition condition = lock.newCondition();
+    private final Condition producerCondition = lock.newCondition();
+    private final Condition consumerCondition = lock.newCondition();
 
     private final Queue<String> queue = new ArrayDeque<>();
     private final int max;
 
-    public BoundedQueueV4(int max) {
+    public BoundedQueueV5(int max) {
         this.max = max;
     }
 
@@ -25,7 +26,7 @@ public class BoundedQueueV4 implements BoundedQueue {
         try {
             while(queue.size() == max) {
                 try {
-                    condition.await();
+                    producerCondition.await();
                     log("[put] 생산자 깨어남");
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
@@ -34,7 +35,7 @@ public class BoundedQueueV4 implements BoundedQueue {
 
             queue.offer(data);
             log("[put] 생산자 데이터 저장, signal() 호출");
-            condition.signal();
+            consumerCondition.signal();
         } finally {
             lock.unlock();
         }
@@ -46,7 +47,7 @@ public class BoundedQueueV4 implements BoundedQueue {
             while (queue.isEmpty()) {
                 log("[take] 큐에 데이터 없음, 소비자 대기");
                 try {
-                    condition.await();
+                    consumerCondition.await();
                     log("[take] 소비자 깨어남");
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
@@ -55,7 +56,7 @@ public class BoundedQueueV4 implements BoundedQueue {
 
             String data = queue.poll();
             log("[take] 소비자 데이터 획득, signal() 호출");
-            condition.signal();
+            producerCondition.signal();
             return data;
         } finally {
             lock.unlock();
