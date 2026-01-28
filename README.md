@@ -125,6 +125,7 @@ java-playground/
 64. [생산자 소비자 문제](https://www.notion.so/2f48e70ba5ff8040974af53adf927b7b?source=copy_link)
 65. [Object 클래스 - wait, notify](https://www.notion.so/Object-wait-notify-2f48e70ba5ff80379d6dc38cb460a512?source=copy_link)
 66. [BlockingQueue](https://www.notion.so/BlockingQueue-2f58e70ba5ff803a9bc7c8b5a274b5a0?source=copy_link)
+67. [CAS - 동기화와 원자적 연산](https://www.notion.so/CAS-2f68e70ba5ff80d1a51dd71b3c39bb25?source=copy_link)
 
 ## 🎯 학습 원칙
 
