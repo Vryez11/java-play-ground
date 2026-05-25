@@ -9,50 +9,6 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 - 실무에서 사용되는 디자인 패턴 구현
 - 모던 Java (8~21) 기능 활용
 
-## 📁 프로젝트 구조
-
-```
-java-playground/
-├── src/
-│   └── main/
-│       └── java/
-│            └── study/
-│                 ├── basics/           # Java 입문
-│                 │   ├── variables/    # 변수와 자료형
-│                 │   ├── operators/    # 연산자
-│                 │   ├── loops/        # 반복문
-│                 │   ├── casting/      # 형변환
-│                 │   ├── array/        # 배열
-│                 │   ├── method/       # 메서드
-│                 │   └── conditions/   # 조건문
-│                 ├── start/            # Java 기본
-│                 │   ├── class1/       # 클래스
-│                 │   ├── construct/    # 생성자
-│                 │   ├── access/       # 접근 제어자
-│                 │   ├── poly/         # 다형성
-│                 │   ├── extend1/      # 상속
-│                 │   └── oop1/         # 객체 지향 프로그래밍
-│                 ├── mid1/             # Java 중급 1
-│                 │   ├── immutable/    # 불변 객체
-│                 │   ├── enumeration/  # 열거형
-│                 │   ├── exception/    # 예외 처리
-│                 │   ├── string/       # String 클래스
-│                 │   ├── nested/       # 중첩 클래스
-│                 │   ├── clazz/        # Class 클래스
-│                 │   ├── math/         # Math 클래스
-│                 │   ├── time/         # 날짜와 시간
-│                 │   ├── random/       # Random 클래스
-│                 │   ├── wrapper/      # 래퍼 클래스
-│                 │   └── object/       # Object 클래스
-│                 ├── mid2/             # Java 중급 2
-│                 │   ├── collection    # 컬렉션 프레임워크
-│                 │   └── generic       # 제네릭  
-│                 └── adv1/             # Java 고급 1  
-│                     └── thread        # 스레드
-└── README.md
-
-```
-
 ## 🗃️ 학습 정리
 
 1. [자바란?](https://www.notion.so/27a8e70ba5ff804c8806e5ae21ccbf08?source=copy_link)
@@ -126,6 +82,9 @@ java-playground/
 65. [Object 클래스 - wait, notify](https://www.notion.so/Object-wait-notify-2f48e70ba5ff80379d6dc38cb460a512?source=copy_link)
 66. [BlockingQueue](https://www.notion.so/BlockingQueue-2f58e70ba5ff803a9bc7c8b5a274b5a0?source=copy_link)
 67. [CAS - 동기화와 원자적 연산](https://www.notion.so/CAS-2f68e70ba5ff80d1a51dd71b3c39bb25?source=copy_link)
+68. [동시성 컬렉션](https://www.notion.so/3638e70ba5ff803093b2c98c63add631?source=copy_link)
+69. [스레드 풀과 Executor 프레임워크1](https://www.notion.so/Executor-1-36b8e70ba5ff8178b400df254c8fdc49?source=copy_link)
+70. [스레드 풀과 Executor 프레임워크2](https://www.notion.so/Executor-2-36b8e70ba5ff81128541da0019df1692?source=copy_link)
 
 ## 🎯 학습 원칙
 
