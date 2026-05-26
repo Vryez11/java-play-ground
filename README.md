@@ -85,6 +85,11 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 68. [동시성 컬렉션](https://www.notion.so/3638e70ba5ff803093b2c98c63add631?source=copy_link)
 69. [스레드 풀과 Executor 프레임워크1](https://www.notion.so/Executor-1-36b8e70ba5ff8178b400df254c8fdc49?source=copy_link)
 70. [스레드 풀과 Executor 프레임워크2](https://www.notion.so/Executor-2-36b8e70ba5ff81128541da0019df1692?source=copy_link)
+71. [문자 인코딩](https://www.notion.so/36c8e70ba5ff81d1a6e5ca5f271690af?source=copy_link)
+72. [I/O - 바이트 스트림](https://www.notion.so/I-O-InputStream-OutputStream-36c8e70ba5ff81669c5ed07b6c065851?source=copy_link)
+73. [I/O - 문자 스트림](https://www.notion.so/I-O-Reader-Writer-36c8e70ba5ff8118a778ee3005439100?source=copy_link)
+74. [I/O - 활용](https://www.notion.so/I-O-36c8e70ba5ff81e0b908feba672bbe59?source=copy_link)
+75. [I/O - File, Files, Path](https://www.notion.so/I-O-36c8e70ba5ff81e0b908feba672bbe59?source=copy_link)
 
 ## 🎯 학습 원칙
 
