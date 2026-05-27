@@ -90,6 +90,8 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 73. [I/O - 문자 스트림](https://www.notion.so/I-O-Reader-Writer-36c8e70ba5ff8118a778ee3005439100?source=copy_link)
 74. [I/O - 활용](https://www.notion.so/I-O-36c8e70ba5ff81e0b908feba672bbe59?source=copy_link)
 75. [I/O - File, Files, Path](https://www.notion.so/I-O-36c8e70ba5ff81e0b908feba672bbe59?source=copy_link)
+76. [네트워크 - 기본 이론](https://www.notion.so/36d8e70ba5ff81ed9e91d9339864fb83?source=copy_link)
+77. [네트워크 - 프로그램 1](https://www.notion.so/1-36d8e70ba5ff8170b30ccbce5344be29?source=copy_link)
 
 ## 🎯 학습 원칙
 
