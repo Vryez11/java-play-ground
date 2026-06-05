@@ -97,6 +97,7 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 80. [네트워크 - HTTP 서버 만들기](https://www.notion.so/HTTP-3748e70ba5ff8173b97bec51aa22701c?source=copy_link)
 81. [리플렉션](https://www.notion.so/3758e70ba5ff81d99308ff0f3d2c7a4d?source=copy_link)
 82. [애노테이션](https://www.notion.so/3758e70ba5ff8197a53cdf6f00f0731c?source=copy_link)
+83. [HTTP 서버 활용](https://www.notion.so/HTTP-3768e70ba5ff8113bb63f0039d2972ef?source=copy_link)
 
 ## 🎯 학습 원칙
 
