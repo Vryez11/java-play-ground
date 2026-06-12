@@ -98,6 +98,7 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 81. [리플렉션](https://www.notion.so/3758e70ba5ff81d99308ff0f3d2c7a4d?source=copy_link)
 82. [애노테이션](https://www.notion.so/3758e70ba5ff8197a53cdf6f00f0731c?source=copy_link)
 83. [HTTP 서버 활용](https://www.notion.so/HTTP-3768e70ba5ff8113bb63f0039d2972ef?source=copy_link)
+84. [람다가 필요한 이유](https://www.notion.so/37d8e70ba5ff81f9ad37d45e294635a2?source=copy_link)
 
 ## 🎯 학습 원칙
 
