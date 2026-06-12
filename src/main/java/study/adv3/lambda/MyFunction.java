@@ -1,0 +1,5 @@
+package main.java.study.adv3.lambda;
+
+public interface MyFunction {
+    int apply(int a, int b);
+}
