@@ -102,6 +102,7 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 85. [람다](https://www.notion.so/3808e70ba5ff818fb9a1d05392da3aa0?source=copy_link)
 86. [함수형 인터페이스](https://www.notion.so/3828e70ba5ff81128151d87f47d226f7?source=copy_link)
 87. [람다 활용](https://www.notion.so/3858e70ba5ff81219927db2efd06a6b6?source=copy_link)
+88. [람다 vs 익명클래스](https://www.notion.so/vs-3858e70ba5ff819586cbfb0dbcc5bf7c?source=copy_link)
 
 ## 🎯 학습 원칙
 
