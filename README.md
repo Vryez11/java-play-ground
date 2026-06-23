@@ -104,6 +104,7 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 87. [람다 활용](https://www.notion.so/3858e70ba5ff81219927db2efd06a6b6?source=copy_link)
 88. [람다 vs 익명클래스](https://www.notion.so/vs-3858e70ba5ff819586cbfb0dbcc5bf7c?source=copy_link)
 89. [메서드 참조](https://www.notion.so/3878e70ba5ff8135964de318c11945ab?source=copy_link)
+90. [스트림 API - 기본](https://www.notion.so/API-3888e70ba5ff8185b831eb7001a7a0d4?source=copy_link)
 
 ## 🎯 학습 원칙
 
