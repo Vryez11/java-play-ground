@@ -58,7 +58,5 @@ public class PrimitiveStreamMain {
         Stream<Integer> integerStream = Stream.of(1, 2, 3, 4, 5, 6);
         IntStream intStream = integerStream.mapToInt(i -> i);
         int sum1 = intStream.sum();
-
-                
     }
 }
