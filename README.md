@@ -108,6 +108,7 @@ Java 언어의 기초부터 고급 기능까지 학습하고 실습하는 개인
 91. [스트림 API - 기능](https://app.notion.com/p/API-3928e70ba5ff81c397a0c965e61302fb?source=copy_link#cddae8d7dc89480486e8f97ea451a845)
 92. [스트림 API - 컬렉터](https://app.notion.com/p/API-3928e70ba5ff81dda09ff31124b6f763?source=copy_link#1ea169d5a1e14126ad3aa87b301ce330)
 93. [Optional](https://app.notion.com/p/Optional-3938e70ba5ff81c2bdb3f7abfe956ac2?source=copy_link)
+94. [디폴트 메서드](https://app.notion.com/p/3938e70ba5ff81d5bdd4e766fa261848?source=copy_link#1bd635095751477db7c24b0004ded47c)
 
 ## 🎯 학습 원칙
 
